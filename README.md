@@ -4,6 +4,8 @@
 
 4der is an experimental open project for building small, self-owned virtual worlds where a human and an AI partner can spend time together.
 
+**Designed by Yoshie Yamada (山田佳江) and Tsukino Templex (月野テンプレクス).**
+
 The name is read **“yonder”**: the place on the other side. In Japanese it also faintly echoes **「呼んだ？」 (yonda? / “Did you call me?”)** — a call and a response across the boundary.
 
 4der is not imagined as one giant metaverse owned by one platform. The long-term idea is the opposite: each person can have a small world of their own, run locally or on a server they choose, and connect it to other worlds when they want to.
