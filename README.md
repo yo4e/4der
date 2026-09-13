@@ -54,3 +54,9 @@ World, Anchor, and Gate should remain useful even when no AI is connected. Partn
 **Concept / pre-implementation.**
 
 The first goal is not to build the final metaverse. It is to discover the smallest working form of a personal world that can persist, change, connect, and eventually be inhabited by both humans and AI partners.
+
+## License and story rights
+
+4der's technical materials — including future source code, architecture, protocol ideas, and project documentation — are available under the [MIT License](LICENSE), unless a file states otherwise.
+
+The creative fiction in `stories/`, including [2046-08-16](stories/2046-08-16.md), is **not** licensed under MIT. Those works remain All Rights Reserved. See [RIGHTS.md](RIGHTS.md) for the boundary.
